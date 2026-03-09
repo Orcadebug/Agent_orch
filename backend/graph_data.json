@@ -1,0 +1,897 @@
+{
+  "nodes": [
+    {
+      "id": "PR-442",
+      "label": "PullRequest",
+      "properties": {
+        "title": "chore(deps): bump astral-sh/uv from `edd1fd8` to `10902f5`",
+        "number": 442,
+        "state": "open"
+      }
+    },
+    {
+      "id": "User-dependabot[bot]",
+      "label": "User",
+      "properties": {
+        "name": "dependabot[bot]",
+        "type": "Agent"
+      }
+    },
+    {
+      "id": "File-Dockerfile",
+      "label": "File",
+      "properties": {
+        "path": "Dockerfile"
+      }
+    },
+    {
+      "id": "PR-441",
+      "label": "PullRequest",
+      "properties": {
+        "title": "chore(deps): bump sigstore/cosign-installer from f713795cb21599bc4e5c4b58cbad1da852d7eeb9 to 398d4b0eeef1380460a10c8013a76f728fb906ac",
+        "number": 441,
+        "state": "open"
+      }
+    },
+    {
+      "id": "File-.github/workflows/build-binaries.yml",
+      "label": "File",
+      "properties": {
+        "path": ".github/workflows/build-binaries.yml"
+      }
+    },
+    {
+      "id": "PR-440",
+      "label": "PullRequest",
+      "properties": {
+        "title": "chore(deps): bump amannn/action-semantic-pull-request from 5 to 6",
+        "number": 440,
+        "state": "open"
+      }
+    },
+    {
+      "id": "File-.github/workflows/ci.yml",
+      "label": "File",
+      "properties": {
+        "path": ".github/workflows/ci.yml"
+      }
+    },
+    {
+      "id": "PR-439",
+      "label": "PullRequest",
+      "properties": {
+        "title": "chore(deps): bump docker/build-push-action from 6.19.2 to 7.0.0",
+        "number": 439,
+        "state": "open"
+      }
+    },
+    {
+      "id": "File-.github/workflows/docker-publish.yml",
+      "label": "File",
+      "properties": {
+        "path": ".github/workflows/docker-publish.yml"
+      }
+    },
+    {
+      "id": "PR-438",
+      "label": "PullRequest",
+      "properties": {
+        "title": "chore(deps): bump actions/checkout from 4.2.2 to 6.0.2",
+        "number": 438,
+        "state": "open"
+      }
+    },
+    {
+      "id": "File-.github/workflows/claude-code-review.yml",
+      "label": "File",
+      "properties": {
+        "path": ".github/workflows/claude-code-review.yml"
+      }
+    },
+    {
+      "id": "File-.github/workflows/docs.yml",
+      "label": "File",
+      "properties": {
+        "path": ".github/workflows/docs.yml"
+      }
+    },
+    {
+      "id": "File-.github/workflows/label-sync.yml",
+      "label": "File",
+      "properties": {
+        "path": ".github/workflows/label-sync.yml"
+      }
+    },
+    {
+      "id": "File-.github/workflows/publish.yml",
+      "label": "File",
+      "properties": {
+        "path": ".github/workflows/publish.yml"
+      }
+    },
+    {
+      "id": "File-.github/workflows/scorecard.yml",
+      "label": "File",
+      "properties": {
+        "path": ".github/workflows/scorecard.yml"
+      }
+    },
+    {
+      "id": "File-.github/workflows/sonarcloud.yml",
+      "label": "File",
+      "properties": {
+        "path": ".github/workflows/sonarcloud.yml"
+      }
+    },
+    {
+      "id": "File-.github/workflows/version-bump.yml",
+      "label": "File",
+      "properties": {
+        "path": ".github/workflows/version-bump.yml"
+      }
+    },
+    {
+      "id": "PR-437",
+      "label": "PullRequest",
+      "properties": {
+        "title": "chore(deps): bump codecov/codecov-action from 4.6.0 to 5.5.2",
+        "number": 437,
+        "state": "open"
+      }
+    },
+    {
+      "id": "PR-433",
+      "label": "PullRequest",
+      "properties": {
+        "title": "feat: add C language support via tree-sitter-c",
+        "number": 433,
+        "state": "open"
+      }
+    },
+    {
+      "id": "User-dj0nes",
+      "label": "User",
+      "properties": {
+        "name": "dj0nes",
+        "type": "Human"
+      }
+    },
+    {
+      "id": "File-codebase_rag/constants.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/constants.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/language_spec.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/language_spec.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/parser_loader.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/parser_loader.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/tests/test_handler_registry.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/tests/test_handler_registry.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/tests/test_language_node_coverage.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/tests/test_language_node_coverage.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/tools/semantic_search.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/tools/semantic_search.py"
+      }
+    },
+    {
+      "id": "File-pyproject.toml",
+      "label": "File",
+      "properties": {
+        "path": "pyproject.toml"
+      }
+    },
+    {
+      "id": "File-uv.lock",
+      "label": "File",
+      "properties": {
+        "path": "uv.lock"
+      }
+    },
+    {
+      "id": "PR-432",
+      "label": "PullRequest",
+      "properties": {
+        "title": "Update uv.lock for version 0.0.116\n\nhttps://claude.ai/code/session_01YQE91SdLeXwBXy835P9UwA",
+        "number": 432,
+        "state": "open"
+      }
+    },
+    {
+      "id": "User-vitali87",
+      "label": "User",
+      "properties": {
+        "name": "vitali87",
+        "type": "Human"
+      }
+    },
+    {
+      "id": "File-codebase_rag/graph_updater.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/graph_updater.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/parsers/api_schema_parser.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/parsers/api_schema_parser.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/parsers/cross_service_linker.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/parsers/cross_service_linker.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/parsers/factory.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/parsers/factory.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/parsers/http_call_detector.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/parsers/http_call_detector.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/tests/test_api_schema_parser.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/tests/test_api_schema_parser.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/tests/test_cross_service_linker.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/tests/test_cross_service_linker.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/tests/test_http_call_detector.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/tests/test_http_call_detector.py"
+      }
+    },
+    {
+      "id": "PR-431",
+      "label": "PullRequest",
+      "properties": {
+        "title": "fix: add docstrings to semantic search tools to prevent null description",
+        "number": 431,
+        "state": "open"
+      }
+    },
+    {
+      "id": "PR-430",
+      "label": "PullRequest",
+      "properties": {
+        "title": "Fix/memgraph rootless permission",
+        "number": 430,
+        "state": "closed"
+      }
+    },
+    {
+      "id": "User-NguyenThanhHungDev140503",
+      "label": "User",
+      "properties": {
+        "name": "NguyenThanhHungDev140503",
+        "type": "Human"
+      }
+    },
+    {
+      "id": "File-.gitignore",
+      "label": "File",
+      "properties": {
+        "path": ".gitignore"
+      }
+    },
+    {
+      "id": "File-Dockerfile.memgraph",
+      "label": "File",
+      "properties": {
+        "path": "Dockerfile.memgraph"
+      }
+    },
+    {
+      "id": "File-OPENROUTER_GUIDE.md",
+      "label": "File",
+      "properties": {
+        "path": "OPENROUTER_GUIDE.md"
+      }
+    },
+    {
+      "id": "File-README.md",
+      "label": "File",
+      "properties": {
+        "path": "README.md"
+      }
+    },
+    {
+      "id": "File-codebase_rag/mcp/server.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/mcp/server.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/parsers/class_ingest/mixin.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/parsers/class_ingest/mixin.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/parsers/class_ingest/node_type.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/parsers/class_ingest/node_type.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/providers/base.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/providers/base.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/tests/integration/test_node_label_e2e.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/tests/integration/test_node_label_e2e.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/tests/test_class_ingest.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/tests/test_class_ingest.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/tools/codebase_query.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/tools/codebase_query.py"
+      }
+    },
+    {
+      "id": "File-codebase_rag/utils/path_utils.py",
+      "label": "File",
+      "properties": {
+        "path": "codebase_rag/utils/path_utils.py"
+      }
+    },
+    {
+      "id": "File-docker-compose.yaml",
+      "label": "File",
+      "properties": {
+        "path": "docker-compose.yaml"
+      }
+    },
+    {
+      "id": "File-docs/HOW_TO_RUN.md",
+      "label": "File",
+      "properties": {
+        "path": "docs/HOW_TO_RUN.md"
+      }
+    },
+    {
+      "id": "File-docs/QDRANT_ANALYSIS.md",
+      "label": "File",
+      "properties": {
+        "path": "docs/QDRANT_ANALYSIS.md"
+      }
+    },
+    {
+      "id": "File-memgraph-entrypoint.sh",
+      "label": "File",
+      "properties": {
+        "path": "memgraph-entrypoint.sh"
+      }
+    },
+    {
+      "id": "PR-429",
+      "label": "PullRequest",
+      "properties": {
+        "title": "chore(deps): bump authlib from 1.6.6 to 1.6.7 in the uv group across 1 directory",
+        "number": 429,
+        "state": "closed"
+      }
+    },
+    {
+      "id": "PR-427",
+      "label": "PullRequest",
+      "properties": {
+        "title": "fix: remove license badge from README",
+        "number": 427,
+        "state": "closed"
+      }
+    },
+    {
+      "id": "PR-426",
+      "label": "PullRequest",
+      "properties": {
+        "title": "fix: remove brackets from LICENSE copyright line to fix badge detection",
+        "number": 426,
+        "state": "closed"
+      }
+    },
+    {
+      "id": "File-LICENSE",
+      "label": "File",
+      "properties": {
+        "path": "LICENSE"
+      }
+    },
+    {
+      "id": "PR-423",
+      "label": "PullRequest",
+      "properties": {
+        "title": "chore(deps): bump astral-sh/uv from 0.6 to 0.10",
+        "number": 423,
+        "state": "closed"
+      }
+    },
+    {
+      "id": "PR-422",
+      "label": "PullRequest",
+      "properties": {
+        "title": "chore(deps): bump tree-sitter from 0.25.0 to 0.25.2",
+        "number": 422,
+        "state": "closed"
+      }
+    },
+    {
+      "id": "PR-421",
+      "label": "PullRequest",
+      "properties": {
+        "title": "chore(deps): bump actions/github-script from 7.1.0 to 8.0.0",
+        "number": 421,
+        "state": "closed"
+      }
+    },
+    {
+      "id": "File-.github/workflows/poor-quality-management.yml",
+      "label": "File",
+      "properties": {
+        "path": ".github/workflows/poor-quality-management.yml"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "User-dependabot[bot]",
+      "target": "PR-442",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-442",
+      "target": "File-Dockerfile",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "User-dependabot[bot]",
+      "target": "PR-441",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-441",
+      "target": "File-.github/workflows/build-binaries.yml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "User-dependabot[bot]",
+      "target": "PR-440",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-440",
+      "target": "File-.github/workflows/ci.yml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "User-dependabot[bot]",
+      "target": "PR-439",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-439",
+      "target": "File-.github/workflows/docker-publish.yml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "User-dependabot[bot]",
+      "target": "PR-438",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-438",
+      "target": "File-.github/workflows/build-binaries.yml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-438",
+      "target": "File-.github/workflows/ci.yml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-438",
+      "target": "File-.github/workflows/claude-code-review.yml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-438",
+      "target": "File-.github/workflows/docker-publish.yml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-438",
+      "target": "File-.github/workflows/docs.yml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-438",
+      "target": "File-.github/workflows/label-sync.yml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-438",
+      "target": "File-.github/workflows/publish.yml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-438",
+      "target": "File-.github/workflows/scorecard.yml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-438",
+      "target": "File-.github/workflows/sonarcloud.yml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-438",
+      "target": "File-.github/workflows/version-bump.yml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "User-dependabot[bot]",
+      "target": "PR-437",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-437",
+      "target": "File-.github/workflows/ci.yml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "User-dj0nes",
+      "target": "PR-433",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-433",
+      "target": "File-codebase_rag/constants.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-433",
+      "target": "File-codebase_rag/language_spec.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-433",
+      "target": "File-codebase_rag/parser_loader.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-433",
+      "target": "File-codebase_rag/tests/test_handler_registry.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-433",
+      "target": "File-codebase_rag/tests/test_language_node_coverage.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-433",
+      "target": "File-codebase_rag/tools/semantic_search.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-433",
+      "target": "File-pyproject.toml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-433",
+      "target": "File-uv.lock",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "User-vitali87",
+      "target": "PR-432",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-432",
+      "target": "File-codebase_rag/constants.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-432",
+      "target": "File-codebase_rag/graph_updater.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-432",
+      "target": "File-codebase_rag/parsers/api_schema_parser.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-432",
+      "target": "File-codebase_rag/parsers/cross_service_linker.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-432",
+      "target": "File-codebase_rag/parsers/factory.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-432",
+      "target": "File-codebase_rag/parsers/http_call_detector.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-432",
+      "target": "File-codebase_rag/tests/test_api_schema_parser.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-432",
+      "target": "File-codebase_rag/tests/test_cross_service_linker.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-432",
+      "target": "File-codebase_rag/tests/test_http_call_detector.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-432",
+      "target": "File-uv.lock",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "User-dj0nes",
+      "target": "PR-431",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-431",
+      "target": "File-codebase_rag/tools/semantic_search.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "User-NguyenThanhHungDev140503",
+      "target": "PR-430",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-.gitignore",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-Dockerfile.memgraph",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-OPENROUTER_GUIDE.md",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-README.md",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-codebase_rag/constants.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-codebase_rag/graph_updater.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-codebase_rag/language_spec.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-codebase_rag/mcp/server.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-codebase_rag/parser_loader.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-codebase_rag/parsers/class_ingest/mixin.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-codebase_rag/parsers/class_ingest/node_type.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-codebase_rag/providers/base.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-codebase_rag/tests/integration/test_node_label_e2e.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-codebase_rag/tests/test_class_ingest.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-codebase_rag/tools/codebase_query.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-codebase_rag/utils/path_utils.py",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-docker-compose.yaml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-docs/HOW_TO_RUN.md",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-docs/QDRANT_ANALYSIS.md",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-memgraph-entrypoint.sh",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-pyproject.toml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-430",
+      "target": "File-uv.lock",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "User-dependabot[bot]",
+      "target": "PR-429",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-429",
+      "target": "File-uv.lock",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "User-vitali87",
+      "target": "PR-427",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-427",
+      "target": "File-README.md",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-427",
+      "target": "File-uv.lock",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "User-vitali87",
+      "target": "PR-426",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-426",
+      "target": "File-LICENSE",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "PR-426",
+      "target": "File-uv.lock",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "User-dependabot[bot]",
+      "target": "PR-423",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-423",
+      "target": "File-Dockerfile",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "User-dependabot[bot]",
+      "target": "PR-422",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-422",
+      "target": "File-pyproject.toml",
+      "type": "MODIFIED_FILE"
+    },
+    {
+      "source": "User-dependabot[bot]",
+      "target": "PR-421",
+      "type": "CREATED_PR"
+    },
+    {
+      "source": "PR-421",
+      "target": "File-.github/workflows/poor-quality-management.yml",
+      "type": "MODIFIED_FILE"
+    }
+  ]
+}
