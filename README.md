@@ -65,6 +65,8 @@ Features:
 2. Enter a GitHub repository (e.g., `facebook/react`) in the input field.
 3. Click "Analyze" and watch the PRs map out in a dynamic 3D graph!
 
+![Demo with octocat/Hello-World](file:///C:/Users/saip4/.gemini/antigravity/brain/49251609-f8eb-40ce-a1d0-4cb3a8e15c94/octocat_hello_world_graph_1773033452839.png)
+
 ## Credits & Acknowledgements
 This project wouldn't be possible without the following amazing open-source libraries and tools:
 - [Next.js](https://nextjs.org/) & [React](https://react.dev/) - The core frontend framework.
