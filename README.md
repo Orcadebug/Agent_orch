@@ -65,3 +65,14 @@ Features:
 2. Enter a GitHub repository (e.g., `facebook/react`) in the input field.
 3. Click "Analyze" and watch the PRs map out in a dynamic 3D graph!
 
+## Credits & Acknowledgements
+This project wouldn't be possible without the following amazing open-source libraries and tools:
+- [Next.js](https://nextjs.org/) & [React](https://react.dev/) - The core frontend framework.
+- [React Three Fiber](https://docs.pmnd.rs/react-three-fiber) & [Three.js](https://threejs.org/) - Powering the immersive 3D visualization.
+- [D3 Force 3D](https://github.com/vasturiano/d3-force-3d) - For the physics-based graph layout calculations.
+- [FastAPI](https://fastapi.tiangolo.com/) - The lightning-fast Python backend framework.
+- [Tailwind CSS](https://tailwindcss.com/) - For beautiful, utility-first styling.
+- [shadcn/ui](https://ui.shadcn.com/) - For beautifully designed, accessible React components.
+
+## License
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
