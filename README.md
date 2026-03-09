@@ -74,5 +74,12 @@ This project wouldn't be possible without the following amazing open-source libr
 - [Tailwind CSS](https://tailwindcss.com/) - For beautiful, utility-first styling.
 - [shadcn/ui](https://ui.shadcn.com/) - For beautifully designed, accessible React components.
 
+## Related Repositories
+
+- **Backend / graph‑generation**: [code‑graph‑rag](https://github.com/vitali87/code-graph-rag) – the original PR‑graph ingestor and FastAPI server.
+- **Frontend / 3‑D UI**: [graphrag‑workbench](https://github.com/ChristopherLyon/graphrag-workbench) – the Next.js + React‑Three‑Fiber visual‑workbench you adapted.
+
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
